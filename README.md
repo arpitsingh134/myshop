@@ -10,7 +10,7 @@ This is E-commerce Project
 - flatico
 - html
 - color materlize css
--google ICON's
+- google ICON's
 
 
 #### Backend technologies ####
